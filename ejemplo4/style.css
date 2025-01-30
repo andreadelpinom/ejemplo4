@@ -1,0 +1,62 @@
+/* General Page Styling */
+body {
+    background-color: #E0BFB8;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Centering the form container */
+  .container {
+    max-width: 800px;
+    margin: 80px auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styling for headings */
+  h1 {
+    color: palevioletred;
+    text-align: center;
+    font-size: 28px;
+  }
+  
+  h4 {
+    color: #333;
+  }
+  
+  /* Form field styling */
+  .form-control {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  /* Custom button styling */
+  .btn-primary {
+    width: 100%;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: black;
+    color:black;
+    background-color:#FFF5EE;
+
+  }
+  
+  /* Table styling */
+  .table {
+    margin-top: 20px;
+    border: 1px solid black;
+  }
+  
+  .table th {
+    background-color: #FFF5EE;
+    border-color: black;
+    color: black;
+    text-align: center;
+  }
+  
+  .table td {
+    text-align: center;
+  }
+  
